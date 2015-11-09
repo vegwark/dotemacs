@@ -33,7 +33,9 @@
     scss-mode
     smartparens
     smex
+    wanderlust
     web-mode
+    w3m
     yasnippet
     zenburn-theme
   ))
